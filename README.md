@@ -21,7 +21,9 @@
 
 ### Mobile Screenshot
 <div>
-   <img src="./.github/anotacoes.gif" width="180">
+   <img src="./.github/salvar.gif" width="180">
+   <img src="./.github/remover.gif" width="180">
+   <img src="./.github/alterar.gif" width="180">
 </div>   
 
 ## :computer: 🚀 Technologies
